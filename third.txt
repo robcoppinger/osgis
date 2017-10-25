@@ -1,1 +1,3 @@
 third file, created only in my_feature_branch
+
+second text created on local master
